@@ -1,4 +1,4 @@
-let username = "ILYHA MONESHNIK"
+let username = "ILYHA MONESY"
 function sayHello(name){
     return "пошел нахуй" + " " + name + "!";
 }
