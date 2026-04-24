@@ -1,6 +1,6 @@
 let username = "ILYHA MONESHNIK"
 function sayHello(name){
-    return "пошел в пизду" + " " + name + "!";
+    return "пошел нахуй" + " " + name + "!";
 }
 
 let message = sayHello(username);
